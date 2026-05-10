@@ -1,6 +1,6 @@
 # ConvertIQ: Smart Conversion Dashboard
 
-## 🔍 Project Overview  
+## Project Overview  
 **ConvertIQ** is a web analytics dashboard built using Power BI to analyze user behavior, traffic sources, and conversion performance.  
 The project focuses on identifying key factors that influence conversions and improving overall website performance through data-driven insights.
 
@@ -39,7 +39,7 @@ The project focuses on identifying key factors that influence conversions and im
 
 ## Dashboard Overview  
 
-![Dashboard](your-dashboard-image-link-here)
+![Dashboard](https://github.com/NishatJafri/Insights_ConvertIQ/blob/main/Main_Dashboard.png)
 
 *Web analytics overview of conversions, traffic sources, and user engagement*
 
