@@ -65,7 +65,7 @@ The project focuses on identifying key factors that influence conversions and im
 
 ## Insights & Analysis Page  
 
-![Insights](your-insights-image-link-here)
+![Insights](https://github.com/NishatJafri/Insights_ConvertIQ/blob/main/Insights_Analysis_Page.png)
 
 *Factors influencing total purchases*
 
